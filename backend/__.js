@@ -44,6 +44,4 @@ const serviceAccount = JSON.parse(decoded);
 
 
 in config/firebase.js and remove the line where you require the JSON file directly.
-
-
 */
